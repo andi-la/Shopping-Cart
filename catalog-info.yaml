@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Shopping-Cart
+  annotations:
+    github.com/project-slug: andi-la/Shopping-Cart
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
